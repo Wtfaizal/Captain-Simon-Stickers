@@ -1,0 +1,15 @@
+{
+    "identifier": "my_sticker_pack",
+    "name": "Cool Stickers",
+    "publisher": "Your Name",
+    "stickers": [
+        {
+            "image": "https://your-username.github.io/whatsapp-stickers/sticker1.png",
+            "emoji": "😀"
+        },
+        {
+            "image": "https://your-username.github.io/whatsapp-stickers/sticker2.png",
+            "emoji": "😂"
+        }
+    ]
+}
